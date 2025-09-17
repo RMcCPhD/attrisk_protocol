@@ -66,7 +66,7 @@ The framework for model development is illustrated in Figure 1. We will develop 
 
 Model development will be conducted in R (4.3.2 Vienna, Austria) using the survival, glmnet and rstan R packages. Summary statistics, model outputs and scripts written for preparation and development will be made available at the project GitHub repository.
 
-![Alt text](protocol/fig1.png)
+![Alt text](fig1.png)
 
 *Figure 1. Overview of model development plan. T2DM = Type 2 diabetes mellitus, IPD = Individual participant data. AACT = Aggregate Analysis of ClinicalTrials.gov. CDF = Cumulative distribution function.*
 
